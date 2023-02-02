@@ -12,7 +12,7 @@
 
 ## C. Steps:
 
-1. Rename .env.example file to ".env"
+1. Rename .env.example file to ".env" and move to project/server
 2. Get your api key token and update in to .env files, which you can get at https://platform.openai.com/account/api-keys
 3. Go to server dir, and type "npm run server"
 4. Go to client dir, and type "npm run dev" and you can see the url:port that you can access to use the apps
