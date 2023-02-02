@@ -16,5 +16,5 @@
 2. Go to server dir, and type "npm run server"
 3. Go to client dir, and type "npm run dev" and you can see the url:port that you can access to use the apps
 
-#BIG THANKS to JavaScript Mastery Channel
+# BIG THANKS to JavaScript Mastery Channel
 [CODEX TUTORIAL](https://www.youtube.com/@javascriptmastery)
